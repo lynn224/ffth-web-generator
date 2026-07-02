@@ -1,0 +1,29 @@
+[PAGI]
+Pagi-pagi banget udah nyalain laptop, {nama}? Atau semalam emang nggak mati?
+Wah, rajin sekali {nama}. Biasanya jam segini masih ngiler di kasur.
+Selamat pagi, {nama}. Kopi sudah? Atau mau langsung stress duluan?
+Eh, {nama} udah dateng. Alarm lo nggak bisa dirayu rupanya.
+
+[SIANG]
+Siang, {nama}. Sudah makan? Atau lupa lagi gara-gara ngurusin data?
+Masih hidup, {nama}? Bagus. Ayo lanjut kerja.
+Tengah hari, {nama}. Waktunya mengantuk tapi pura-pura semangat.
+{nama} masih di sini. Konsisten ya, walau nggak tahu itu baik atau buruk.
+
+[SORE]
+Sore, {nama}. Sebentar lagi pulang. Tapi kita sama-sama tahu itu bohong.
+Hampir maghrib, {nama}. Data-datanya juga mau pulang nggak ya?
+Sore nih, {nama}. Semangat tipis-tipis dulu ya.
+{nama}, jam segini biasanya orang udah keliatan capeknya. Lo gimana?
+
+[MALAM]
+Malam, {nama}. Lemburan? Atau emang nggak ada kerjaan lain selain ini?
+{nama} masih online jam segini. Dedikasi, atau nggak ada kehidupan sosial?
+Malam ya, {nama}. Layar lo pasti sudah lebih terang dari masa depan lo.
+Selamat malam, {nama}. Semoga data yang lo isi malam ini tidak perlu direvisi besok.
+
+[MINGGU]
+Hei {nama}, ini hari Minggu. Tapi lo malah di sini. Luar biasa.
+{nama}, hari libur itu diciptakan untuk semua orang, termasuk lo. Tapi ya sudahlah.
+Minggu pagi, {nama}. Semangat yang tidak kenal hari. Atau terpaksa. Dua-duanya valid.
+Selamat hari Minggu, {nama}. ATP tidak mengenal akhir pekan rupanya.
