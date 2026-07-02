@@ -1,0 +1,4 @@
+# FORMAT UPLOAD OPM FEEDER
+# SPL_ID | SPL_SN | OPM_BEFORE | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8
+# Example:
+SPLITTER 1 | SN-BMI-001 | -12.15 | -18.10 | -18.25 | | | | | |
